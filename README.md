@@ -114,5 +114,25 @@ Webdev
 
 #### Canopy
 - Opensource framework for RAG in production
-- 
+- Built for Scale using pinecone
+- Automatically handles the context overflow issue
+- No code - Building from Config
+- FastAPI apps and docker image
 
+#### Evaluation RAG is Hard
+- Defining eval metrics and making them reliable & comprehensive
+- Logging app execution trace to enable granular evals
+- Scalably and cost-efficientky eval & monitor apps in production
+- Enables fast iteration to improve apps
+
+#### Overview
+
+- Build RAGs with Canopy/Pinecone
+- Evaluation with --> TreLens/Truera
+https://www.youtube.com/watch?v=fo0F-DAum7E
+
+Slides:
+https://docs.google.com/presentation/...
+
+Notebook:
+https://github.com/truera/trulens/blo...
