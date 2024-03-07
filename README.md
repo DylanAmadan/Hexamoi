@@ -6,6 +6,12 @@
 This is going to take a long fucking time, isn't it...
 - The features I want to implement yadayada, seems like I might be best to cut some fat and focus on a reskin.
 
+Links:
+https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=1045s
+https://www.youtube.com/watch?v=F5mRW0jo-U4&list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo
+
+30
+https://www.youtube.com/watch?v=qrZGfBBlXpk
 
 ## Description
 
