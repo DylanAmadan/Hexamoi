@@ -9,7 +9,6 @@ Language learning assistant allowing language learners to track progress and pra
 UI to harness mistral LLM for basic conversations.
 RAG to remember conversations.
 
-
 ## Features
 
 Must Haves:
@@ -95,3 +94,25 @@ Language Progress Tracker:
 LangChain - Tutorial - Intro - Templates
 
 Webdev
+
+## Notes
+
+#### RAG
+- LLMs are limited by there knowledge
+- Current SOTA is Retrieval Augmented Retrieval
+  - Vector data bases (like pinecone)
+    - Semantic search (search over unstructured data). Present document and queries as vectors. Get them as close as possible.
+  - 10 most relevant documents, concatenate with the query, put in the model and boom!
+- Demo is really easy (frameworks like langchain or llama index on canopy), production is hard.
+
+![productionishard](Images/productionishard.png)
+
+#### RAG Limitations
+- Halloucination
+- Context overflow problem (token cap)
+- Inject and Clean Data, Chunking for embedding modeils, right embedding models, high quality search system.
+
+#### Canopy
+- Opensource framework for RAG in production
+- 
+
