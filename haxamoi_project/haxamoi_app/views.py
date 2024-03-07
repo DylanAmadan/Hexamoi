@@ -5,10 +5,12 @@ from django.urls import path, include
 from haxamoi_app import views  
 
 
-def home(request):
-    return render(request, 'haxamoi_app/home.html')
+#create functionality 
 
-def dashboard(request):
+def home(request):
+    return render(request, 'hexamoi.html')
+
+#def dashboard(request):
     # Assuming you have user authentication
     if request.user.is_authenticated:
         return render(request, 'haxamoi_app/dashboard.html')
@@ -16,7 +18,10 @@ def dashboard(request):
         return redirect('/')
 
 def chat(request):
-    return render(request, 'haxamoi_app/chat.html')
+    return render(request, 'hexamoi.html')
+    if request.method == 'POST':
+        message = request.POST.get('message')
+        print(message)
 
 def admin(request):
     return render(request, 'haxamoi_app/admin.html')   

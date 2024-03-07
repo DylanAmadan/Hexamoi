@@ -1,5 +1,12 @@
 # Haxamoi
 
+
+## Captain's Log
+
+This is going to take a long fucking time, isn't it...
+- The features I want to implement yadayada, seems like I might be best to cut some fat and focus on a reskin.
+
+
 ## Description
 
 Language learning assistant allowing language learners to track progress and practice conversation at their level. This project leverages a fine-tuned Mistral 7B model and Django for web development, creating an interactive and engaging learning experience.
