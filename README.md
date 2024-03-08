@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=F5mRW0jo-U4&list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8v
 30
 https://www.youtube.com/watch?v=qrZGfBBlXpk
 
+
+
 ## Description
 
 Language learning assistant allowing language learners to track progress and practice conversation at their level. This project leverages a fine-tuned Mistral 7B model and Django for web development, creating an interactive and engaging learning experience.
@@ -149,3 +151,41 @@ https://docs.google.com/presentation/...
 
 Notebook:
 https://github.com/truera/trulens/blo...
+
+
+Insights:
+Vocabulary Growth Over Time: Show how the user’s active and passive vocabulary has expanded over time.
+Common Phrases Usage: Highlight the most frequently used phrases and their contexts.
+New Words Learned: List new vocabulary acquired in recent conversations.
+Word Frequency: Display how often certain words are used actively or passively.
+Contextual Vocabulary: Identify words that are most commonly used in specific topics or contexts.
+Language Complexity: Analyze the complexity of the language used over time, looking at sentence structure and word difficulty.
+Fluency Progression: Estimate fluency progress based on the variety and appropriateness of vocabulary used in conversations.
+Grammar Insights: Provide insights on grammatical structures used, highlighting both strengths and areas for improvement.
+
+Statistics:
+Total Number of Unique Words: Count of unique active and passive words used.
+Daily/Weekly/Monthly Active Use: Stats on how frequently the user engages in conversation with the AI.
+Phrase Repetition: Statistics on which phrases or words the user repeats most often.
+Accuracy Rate: The ratio of grammatically correct sentences to total sentences.
+Conversational Turns: Number of conversational turns in each session, which can be an indicator of engagement.
+Time Spent: The total amount of time spent conversing with the AI.
+Session Count: Number of sessions and average duration per session.
+
+Visualizations:
+Word Clouds: For both active and passive vocabulary, indicating frequency of use.
+Line Graphs: To show vocabulary growth and fluency progression over time.
+Bar Charts: For comparison between active and passive vocabulary size or complexity level.
+Progress Bars: To indicate how close the user is to reaching certain language milestones.
+Heat Maps: Representing the times of day or days of the week when the user is most active.
+Pie Charts: To illustrate the proportion of different parts of speech used (nouns, verbs, adjectives, etc.).
+Scatter Plots: To correlate language complexity with conversational engagement.
+Histograms: To show the distribution of sentence lengths or word lengths used by the user.
+Network Graphs: Visualizing the relationships between commonly used words or phrases.
+
+Interactive Features:
+Customizable Date Ranges: Allow users to select date ranges for all visual statistics.
+Word and Phrase Drill-Down: Clicking on a word or phrase in any visualization could provide more detailed usage statistics and examples.
+Goal Setting and Tracking: Enable users to set specific vocabulary goals and track progress towards them.
+Language Learning Path: A suggested path or milestones for users to aim for, based on their current level.
+Comparison With Peers: If applicable and privacy-compliant, allow users to see how their stats compare with others at a similar learning stage.
