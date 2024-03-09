@@ -42,6 +42,13 @@ Nice to haves (maybe implement later)
 - Hover over words to find out what they mean
 - RAG system to remember user conversations
 
+
+
+## Sitemap
+
+
+
+
 ## Technologies Used
 
 Ideas (nothing set in stone)

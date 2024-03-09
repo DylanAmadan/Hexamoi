@@ -7,5 +7,6 @@ urlpatterns = [
     path('', views.home, name='home'),
     #path('dashboard/', views.dashboard, name='dashboard'),
     path('admin/', admin.site.urls),
-    path('chat/', views.chat, name='chat'),
+    path('chat/', views.chatbot, name='chatbot'),
 ]
+
