@@ -3,14 +3,9 @@
 
 ## Captain's Log
 
-This is going to take a long fucking time, isn't it...
-- The features I want to implement yadayada, seems like I might be best to cut some fat and focus on a reskin.
-
-Links:
+Tutorial Links:
 https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=1045s
 https://www.youtube.com/watch?v=F5mRW0jo-U4&list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo
-
-33
 https://www.youtube.com/watch?v=qrZGfBBlXpk
 
 
@@ -42,8 +37,6 @@ Nice to haves (maybe implement later)
 - Hover over words to find out what they mean
 - RAG system to remember user conversations
 
-
-
 ## Sitemap
 
 
@@ -58,7 +51,6 @@ Ideas (nothing set in stone)
 - React or Vue.js: Consider using one of these frameworks for the frontend to create a dynamic and responsive user interface.
 - TensorFlow or PyTorch: For any custom machine learning models or additional natural language processing beyond what Mistral provides.
 - Docker: For containerizing your application, ensuring it runs consistently across different environments.
-
 - LangChain
 
 
