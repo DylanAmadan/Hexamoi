@@ -1,8 +1,6 @@
 # Haxamoi
 
 
-## Captain's Log
-
 Tutorial Links:
 https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=1045s
 https://www.youtube.com/watch?v=F5mRW0jo-U4&list=PLTwiqKOPckq-B8XQQ-p7w4U11J6q8vwSo
